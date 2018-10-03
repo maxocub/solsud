@@ -126,7 +126,7 @@ li a:hover {
 #main-menu ul li a {
   font-size: 18px;
   line-height: 36px;
-  padding: 4px 40px 0 14px;
+  padding: 4px 30px 0 15px;
 }
 
 #main-menu ul li ul {
@@ -151,14 +151,6 @@ li a:hover {
   line-height: 16px;
   width: 100%;
   display: inline-block;
-}
-
-.i18n-es #main-menu ul {
-  padding: 0 0 0 78px;
-}
-
-.i18n-es #main-menu ul li ul {
-  padding: 0;
 }
 
 /**
